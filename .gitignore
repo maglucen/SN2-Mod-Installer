@@ -1,0 +1,8 @@
+*.settings.json
+*.lock
+__pycache__/
+app/__pycache__/
+app/*.lock
+*.py[cod]
+.venv/
+venv/
